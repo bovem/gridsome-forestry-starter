@@ -1,8 +1,8 @@
 {
   "footer": "Copyright &copy; 2021",
-  "dark_mode": false,
-  "site_name": "Nichlas W. Andersen",
+  "dark_mode": true,
+  "site_name": "Avnish Pal",
   "site_description": "Creative technologist",
-  "hero_title": "Simplicity. Aesthetics. Value.",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "hero_title": "Hello, World. I'm Avnish.",
+  "hero_subtitle": "<span class=\"lt-line-clamp__line\">I am machine learning scientist at Taiyo LLC and engineering student specializing in information technology. I</span> <span class=\"lt-line-clamp__line\">am programming in Python since high school. I am interested in machine learning and mathematics. I publish</span> <span class=\"lt-line-clamp__line lt-line-clamp__line--last\">articles on medium.com and on my blog, mostly themed on mathematics.</span>"
 }
